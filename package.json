@@ -1,1 +1,1 @@
-{\n  "name": "online-appointment-booking",\n  "version": "1.0.0",\n  "main": "server.js",\n  "scripts": {\n    "start": "node server.js"\n  },\n  "dependencies": {\n    "express": "^4.17.1",\n    "dotenv": "^10.0.0",\n    "mongoose": "^5.11.15"\n  }\n}
+{"name": "online-appointment-booking","version": "1.0.0","private": true,"dependencies": {"react": ">=17.0.2","react-dom": ">=17.0.2","vite": ">=2.0.0","tailwindcss": ">=2.0.0","postcss": ">=8.3.0","autoprefixer": ">=10.2.0"},"devDependencies": {"@vitejs/plugin-react": ">=1.0.0"}}
